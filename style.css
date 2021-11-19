@@ -184,8 +184,8 @@ label{
     position: absolute;
     margin-top: 50px;
     margin-left: 600px;
-    color: orangered;
     font-size: 30px;
+    text-decoration: none;
 }
 .notshow{
     filter: blur(8px);
