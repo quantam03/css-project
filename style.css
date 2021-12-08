@@ -47,13 +47,36 @@
 .top{
     position: absolute;
     top: 210px;
-    font-size: 20px;
-    width: 160px;
+    font-size: 21px;
+    width: 110px;
     text-align: center;
     position: fixed;
     color: orange;
     border-bottom:1px solid gray;
+    
   
+}
+.top1{
+    position: absolute;
+    top: 210px;
+    font-size: 21px;
+    width: 180px;
+    text-align: center;
+    position: fixed;
+    color: orange;
+    border-bottom:1px solid gray;
+    
+}
+.top2{
+    position: absolute;
+    top: 210px;
+    font-size: 21px;
+    width: 130px;
+    text-align: center;
+    position: fixed;
+    color: orange;
+    border-bottom:1px solid gray;
+   
 }
 .text{
     font-size: 20px;
